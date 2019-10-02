@@ -1,1 +1,1 @@
-#Linked-list, STACK, Queue and Quicksort Programs.
+#Linked-list, Queue, Stack program and Sorting Algorithm.
